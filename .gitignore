@@ -1,0 +1,26 @@
+# Environment secrets
+.env
+.env.*
+
+# Maven build output
+**/target/
+
+# Gradle leftovers
+.gradle/
+**/build/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Packaged archive
+solution.zip
